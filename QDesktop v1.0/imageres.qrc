@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>Resource/icon/iconCalculator.png</file>
+        <file>Resource/icon/iconCalendar.png</file>
+        <file>Resource/icon/iconClock.png</file>
+        <file>Resource/icon/iconDuanzi.png</file>
+        <file>Resource/icon/iconFiction.png</file>
+        <file>Resource/icon/iconFileBrowser.png</file>
+        <file>Resource/icon/iconMusic.png</file>
+        <file>Resource/icon/iconNetwork.png</file>
+        <file>Resource/icon/iconNews.png</file>
+        <file>Resource/icon/iconPicture.png</file>
+        <file>Resource/icon/iconTemp.png</file>
+        <file>Resource/icon/iconTranslation.png</file>
+        <file>Resource/icon/iconWeather.png</file>
+        <file>Resource/icon/iconWebBrowser.png</file>
+        <file>Resource/icon/iconWifi.png</file>
+        <file>Resource/icon/iconWifi_pb.png</file>
+        <file>Resource/icon/iconWireless.png</file>
+        <file>Resource/icon/iconWeather2.png</file>
+        <file>Resource/icon/user.png</file>
+    </qresource>
+</RCC>
