@@ -8,7 +8,6 @@
 
 运行起来以后没有是图片资源的，需要将代码目录下的Resource文件夹完整拷贝到`build-QDesktop-Desktop_Qt_5_14_2_MinGW_64_bit-Debug\debug\`目录下。
 
-
-
+![Image text](QDesktop v1.0/QDesktop-v1.0.png)
 
 
